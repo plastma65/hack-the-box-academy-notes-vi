@@ -29,5 +29,5 @@ Bản dịch tiếng Việt được thực hiện trong Codex. Người dịch 
 - `.vi.pdf`: bản PDF để đọc hoặc lưu ngoại tuyến.
 - `HUONG_DAN.md`: phạm vi và quy ước của bản dịch.
 
-Các tên công cụ, lệnh, đường dẫn, địa chỉ, thông tin lab và khối mã được giữ để tiện đối chiếu với tài liệu gốc.
+Các tên công cụ, lệnh, đường dẫn, địa chỉ, thông tin lab và khối mã được giữ để tiện đối chiếu với tài liệu gốc. Để tránh công khai thông tin nhạy cảm, bản đăng đã lược bỏ một khóa SSH riêng xuất hiện trong ghi chép nguồn; nội dung giải thích xung quanh được giữ lại.
 
