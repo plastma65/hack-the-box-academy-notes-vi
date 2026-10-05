@@ -15,4 +15,3 @@ Bản tiếng Việt của bảy tài liệu ghi chép cá nhân về Hack The B
 | Đánh giá lỗ hổng | [Đọc](vulnerability_assessment_export_final.vi.md) | [PDF](vulnerability_assessment_export_final.vi.pdf) |
 
 Đây là bản dịch không chính thức, không được tác giả bản gốc hay Hack The Box bảo chứng. Để bảo vệ dữ liệu truy cập lab, bản công khai đã che khóa SSH riêng, IP/URL mục tiêu, thông tin xác thực, đáp án, flag và giá trị hash; hướng dẫn và giải thích vẫn được giữ. Chi tiết trong [HUONG_DAN.md](HUONG_DAN.md).
-
